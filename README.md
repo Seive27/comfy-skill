@@ -25,13 +25,13 @@ The goal is simple:
 Install Comfy Skill using Agent Skills:
 
 ```bash
-npx skills add https://github.com/YOUR_USERNAME/comfy-skill
+npx skills add https://github.com/Seive27/comfy-skill
 ```
 
 Install the main frontend skill directly:
 
 ```bash
-npx skills add https://github.com/YOUR_USERNAME/comfy-skill --skill "design-comfy-frontend"
+npx skills add https://github.com/Seive27/comfy-skill --skill "design-comfy-frontend"
 ```
 
 ---
