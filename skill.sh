@@ -18,6 +18,7 @@ declare -A SKILLS=(
   [review-animations-skill]="skills/stitch-skill/SKILL.md"
   [review-animations-standards]="skills/stitch-skill/STANDARDS.md"
   [stitch-skill]="skills/stitch-skill/SKILL.md"
+  [claude-frontend-skill]="skills/frontend-design/SKILL.md"
 )
 
 if [[ $# -eq 0 ]]; then
