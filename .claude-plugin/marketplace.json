@@ -1,18 +1,18 @@
 {
-  "name": "taste-skill",
-  "description": "Taste skill library for Claude Code — frontend design, image-to-code, and aesthetic skills",
+  "name": "comfy-skill",
+  "description": "Comfy skill library for Claude Code — frontend design, image-to-code, and aesthetic skills",
   "owner": {
-    "name": "leonxlnx",
+    "name": "Seive27",
     "email": ""
   },
   "plugins": [
     {
-      "name": "taste-skill",
+      "name": "comfy-skill",
       "description": "Frontend design taste skills including brutalist, minimalist, soft, redesign, stitch, and more",
       "version": "1.0.0",
       "source": "./",
       "author": {
-        "name": "leonxlnx",
+        "name": "Seive27",
         "email": ""
       }
     }
