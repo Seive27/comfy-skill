@@ -14,6 +14,9 @@ declare -A SKILLS=(
   [output-skill]="skills/output-skill/SKILL.md"
   [minimalist-skill]="skills/minimalist-skill/SKILL.md"
   [brutalist-skill]="skills/brutalist-skill/SKILL.md"
+  [emil-design-skill]="skills/emil-design-eng/SKILL.md"
+  [review-animations-skill]="skills/stitch-skill/SKILL.md"
+  [review-animations-standards]="skills/stitch-skill/STANDARDS.md"
   [stitch-skill]="skills/stitch-skill/SKILL.md"
 )
 
